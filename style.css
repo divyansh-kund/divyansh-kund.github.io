@@ -13,7 +13,7 @@
 .images{
     width:500px;
     height:400px;
-
+    float:below;
     border: solid red;
 }
 #mimo1{
