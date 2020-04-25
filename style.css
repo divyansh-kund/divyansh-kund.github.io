@@ -1,0 +1,30 @@
+#mimo{
+		font-style:italic;
+		font-weight:bold;
+		background-color:black;
+		color:Yellow;
+		font-size:30px;
+		}
+.Rebels{
+		font-style: italic;
+		font-weight:bold;
+		background-color:blue;
+		}
+.images{
+    width:25px;
+    height:25px;
+    float: right;
+    border: solid red;
+}
+#mimo1{
+		font-style:italic;
+		font-weight:bold;
+		background-color:black;
+		color:Yellow;
+		font-size:30px;
+		}
+.button{
+		font-style:italic;
+		onClick="background-color:Black;
+		color:Purple;"
+		}
